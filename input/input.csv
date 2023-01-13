@@ -1,0 +1,11 @@
+talksTo,A,B
+talksTo,A,C
+talksTo,B,D
+talksTo,C,D
+talksTo,D,E
+talksTo,E,D
+secret,A,1
+secret,B,2
+secret,C,3
+secret,D,4
+secret,E,5

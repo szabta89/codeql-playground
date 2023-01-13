@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../codeql"
+		},
+		{
+			"name": "[db source archive]",
+			"uri": "codeql-zip-archive://0-48/Users/szabta89/git/codeql-playground/db/src.zip"
+		}
+	],
+	"settings": {
+		"codeQL.runningQueries.autoSave": true
+	}
+}
